@@ -1,4 +1,3 @@
-# 👋 Hi, I'm J. Miller
 
 ## About Me
 Certified CompTIA Security+ professional transitioning 
