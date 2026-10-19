@@ -12,7 +12,7 @@ I bring daily operational experience with enterprise IAM tools (CyberArk, Micros
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Identity Lifecycle Management — JML & RBAC         | <a href="https://google.com">SecureLogix IAM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
