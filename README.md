@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm JEFF
 <a href="https://linkedin.com/in/ja-cyber365"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 IT professional with hands-on experience in Privileged Access Management, Identity & Access Management, and compliance documentation. CompTIA Security+ certified, currently pursuing CySA+ with a long-term path toward GRC and compliance analyst roles.
@@ -39,13 +39,8 @@ I bring daily operational experience with enterprise IAM tools (CyberArk, Micros
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B_(Aug_2026)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
