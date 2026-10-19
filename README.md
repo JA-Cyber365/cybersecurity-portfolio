@@ -21,9 +21,7 @@ I bring daily operational experience with enterprise IAM tools (CyberArk, Micros
 
 ### IAM
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM & Security
@@ -33,8 +31,11 @@ I bring daily operational experience with enterprise IAM tools (CyberArk, Micros
 
 ### ITSM & Platforms
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+   <img src="https://img.shields.io/badge/-ServiceNow-00A4EF?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+   <img src="https://img.shields.io/badge/-AWS_Connect-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft_365-D83B01?&style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Salesforce-00A1E0?&style=for-the-badge&logo=Salesforce&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SAP_NetWeaver-0FAAFF?&style=for-the-badge&logo=SAP&logoColor=white" />
 </div>
 
 ## Certifications
