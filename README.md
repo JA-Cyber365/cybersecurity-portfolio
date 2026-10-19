@@ -8,16 +8,14 @@ IT professional with hands-on experience in Privileged Access Management, Identi
 I bring daily operational experience with enterprise IAM tools (CyberArk, Microsoft Entra ID, ServiceNow) from a customer-facing environment where access control, ticket escalation, and security hygiene are non-negotiable. My goal is to transition into a GRC or IT Support Analyst role — applying my Security+ foundation and practical lab work to help organizations manage risk, enforce policy, and stay compliant.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Identity Lifecycle Management — JML & RBAC         | <a href="https://google.com">SecureLogix IAM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Risk Exception Documentation — NIST SP 800-53 | <a href="https://google.com">CVE-2017-7494 SambaCry</a>|
+| SIEM Log Analysis & Phishing Investigation         | <a href="https://google.com">TryHackMe Splunk Lab</a>|
+| Phishing Campaign Analysis & Awareness Training  | <a href="https://google.com">Mastercard Forage Simulation Lab</a>|
+| Incident Ticketing, Escalation & Documentation     | Daily Operations — ServiceNow|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
