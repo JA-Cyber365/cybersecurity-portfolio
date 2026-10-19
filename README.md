@@ -5,7 +5,7 @@ IT professional with hands-on experience in Privileged Access Management, Identi
 
 ## Objective
 
-I bring daily operational experience with enterprise IAM tools (CyberArk, Microsoft Entra ID, ServiceNow) from a customer-facing environment where access control, ticket escalation, and security hygiene are non-negotiable. My goal is to transition into a GRC or IT Support Analyst role — applying my Security+ foundation and practical lab work to help organizations manage risk, enforce policy, and stay compliant.
+I bring daily operational experience with enterprise platforms (Microsoft Entra ID, ServiceNow, AWS Connect, Salesforce) from a customer-facing environment where access control, ticket escalation, and security hygiene are non-negotiable. My goal is to move into a GRC or IT Support Analyst role — applying my Security+ foundation and practical lab work to help organizations manage risk, enforce policy, and stay compliant.
 
 ## Skills
 
