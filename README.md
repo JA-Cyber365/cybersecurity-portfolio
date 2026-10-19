@@ -1,61 +1,57 @@
+# Hello, I'm CHANGEME
+<a href="https://linkedin.com/ja-cyber365"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## About Me
-Certified CompTIA Security+ professional transitioning 
-into cybersecurity with hands-on experience in IAM, 
-Zero Trust, SOC operations and phishing analysis. 
-Currently pursuing CySA+ CS0-004.
+IT professional with hands-on experience in Privileged Access Management, Identity & Access Management, and compliance documentation. CompTIA Security+ certified, currently pursuing CySA+ with a long-term path toward GRC and compliance analyst roles.
 
----
+## Objective
 
-## 🏆 Certifications
-- CompTIA Security+ SY0-701 — August 2026
-- CySA+ CS0-004 — In Progress
+I bring daily operational experience with enterprise IAM tools (CyberArk, Microsoft Entra ID, ServiceNow) from a customer-facing environment where access control, ticket escalation, and security hygiene are non-negotiable. My goal is to transition into a GRC or IT Support Analyst role — applying my Security+ foundation and practical lab work to help organizations manage risk, enforce policy, and stay compliant.
 
----
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-## 🔐 Projects
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-### SecureLogix Inc — IAM & Zero Trust Lab
-**Platform:** Microsoft Entra ID
-**Date:** September 2026
-- Designed RBAC structure for fictional financial 
-  services company enforcing least privilege
-- Configured MFA and Security Defaults tenant-wide
-- Documented JML workflow, RBAC matrix and planned 
-  Conditional Access policies aligned to Zero Trust 
-  and NIST SP 800-53
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Deloitte Australia — Cyber Job Simulation
-**Platform:** Forage
-**Date:** September 2026
-- Analysed web activity logs identifying suspicious 
-  user behaviour and unauthorised data access
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-### Mastercard — Cybersecurity Analyst Simulation
-**Platform:** Forage
-**Date:** September 2026
-- Identified HR and Marketing as highest risk teams 
-  with 75% and 38% phishing success rates
-- Designed targeted security awareness training 
-  recommendations
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-### TryHackMe — SOC Phishing Investigation
-**Platform:** Splunk SIEM
-**Date:** September 2026
-- Investigated coordinated phishing campaign across 
-  five alerts achieving 80% true positive rate
-- Identified lookalike domains and credential 
-  harvesting URLs across multiple targets
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
----
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
-## 🛠️ Skills
-Security: Incident Response | Network Security | 
-Log Analysis | IAM | Zero Trust
-
-Compliance: HIPAA | PCI DSS | GDPR | SOX | NIST CSF
-
-Tools: Splunk SIEM | Microsoft Entra ID | ServiceNow | 
-Salesforce | SAP NetWeaver | AWS Connect
-
----
+## Projects
+- Detection Lab
+- SOC Automation Project
