@@ -44,5 +44,7 @@ I bring daily operational experience with enterprise IAM tools (CyberArk, Micros
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Home Network Security Assessment & Hardening (S
+- Linux Log Analysis & Threat Detection Automation
+- SecureLogix Inc — IAM & Zero Trust Lab
+- TryHackMe — SOC Analyst Simulation
