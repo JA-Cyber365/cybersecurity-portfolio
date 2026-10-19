@@ -40,7 +40,7 @@ I bring daily operational experience with enterprise IAM tools (CyberArk, Micros
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B_(Aug_2026)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B_(August_2026)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
