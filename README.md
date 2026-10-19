@@ -1,5 +1,5 @@
 # Hello, I'm CHANGEME
-<a href="https://linkedin.com/ja-cyber365"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ja-cyber365"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 IT professional with hands-on experience in Privileged Access Management, Identity & Access Management, and compliance documentation. CompTIA Security+ certified, currently pursuing CySA+ with a long-term path toward GRC and compliance analyst roles.
 
