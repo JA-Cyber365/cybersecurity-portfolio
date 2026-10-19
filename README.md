@@ -11,10 +11,10 @@ I bring daily operational experience with enterprise IAM tools (CyberArk, Micros
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Identity Lifecycle Management — JML & RBAC         | <a href="https://google.com">SecureLogix IAM Lab</a>|
+| Identity Lifecycle Management — JML, RBAC & Zero Trust         | <a href="https://google.com">SecureLogix IAM Lab</a>|
 | Risk Exception Documentation — NIST SP 800-53 | <a href="https://google.com">CVE-2017-7494 SambaCry</a>|
 | SIEM Log Analysis & Phishing Investigation         | <a href="https://google.com">TryHackMe Splunk Lab</a>|
-| Phishing Campaign Analysis & Awareness Training  | <a href="https://google.com">Mastercard Forage Simulation Lab</a>|
+| Log Analysis & Threat Detection Automation  | <a href="https://google.com">	Linux Log Analysis Lab</a>|
 | Incident Ticketing, Escalation & Documentation     | Daily Operations — ServiceNow|
 
 ## Tools
