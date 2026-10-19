@@ -44,7 +44,7 @@ I bring daily operational experience with enterprise platforms (Microsoft Entra 
 </div>
 
 ## Projects
-- Home Network Security Assessment & Hardening (S
+- Home Network Security Assessment & Hardening
 - Linux Log Analysis & Threat Detection Automation
 - SecureLogix Inc — IAM & Zero Trust Lab
 - TryHackMe — SOC Analyst Simulation
