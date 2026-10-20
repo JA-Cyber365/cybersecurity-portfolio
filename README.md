@@ -1,11 +1,11 @@
 # Hello, I'm Jeff
 <a href="https://linkedin.com/in/ja-cyber365"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT professional with hands-on experience in Privileged Access Management, Identity & Access Management, and compliance documentation. CompTIA Security+ certified, currently pursuing CySA+ with a long-term path toward GRC and compliance analyst roles.
+IT professional with hands-on experience in Identity & Access Management, SIEM analysis, and compliance documentation. CompTIA Security+ certified, currently pursuing CySA+ with a long-term path toward GRC role.
 
 ## Objective
 
-I bring daily operational experience with enterprise platforms (Microsoft Entra ID, ServiceNow, AWS Connect, Salesforce) from a customer-facing environment where access control, ticket escalation, and security hygiene are non-negotiable. My goal is to move into a GRC or IT Support Analyst role — applying my Security+ foundation and practical lab work to help organizations manage risk, enforce policy, and stay compliant.
+I bring daily operational experience with enterprise platforms (Microsoft Entra ID, ServiceNow, AWS Connect, Salesforce) from a customer-facing environment where access control, ticket escalation, and security hygiene are non-negotiable. My goal is to transition into a GRC, IT Support, or SOC Analyst role — applying my Security+ foundation and practical lab work to help organizations manage risk, enforce policy, and stay compliant.
 
 ## Skills
 
