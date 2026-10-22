@@ -44,7 +44,7 @@ I bring daily operational experience with enterprise platforms (Microsoft Entra 
 </div>
 
 ## Projects
+- [SecureLogix Inc — IAM & Zero Trust Lab](https://github.com/JA-Cyber365/securelog-iam-zero-trust-lab)
 - [Home Network Security Assessment & Hardening](https://github.com/JA-Cyber365/home-network-security-assessment)
 - Linux Log Analysis & Threat Detection Automation
-- [SecureLogix Inc — IAM & Zero Trust Lab](https://github.com/JA-Cyber365/securelog-iam-zero-trust-lab)
 - TryHackMe — SOC Analyst Simulation
