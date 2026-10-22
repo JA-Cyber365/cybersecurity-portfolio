@@ -13,8 +13,8 @@ I bring daily operational experience with enterprise platforms (Microsoft Entra 
 |-----------------------------------------------|----------------------------|
 | Identity Lifecycle Management — JML, RBAC & Zero Trust         | <a href="https://github.com/JA-Cyber365/securelog-iam-zero-trust-lab">SecureLogix IAM Lab</a>|
 | Risk Exception Documentation — NIST SP 800-53 | <a href="https://github.com/JA-Cyber365/home-network-security-assessment">Home Network Assessment</a> |
-| SIEM Log Analysis & Phishing Investigation         | <a href="https://google.com">TryHackMe Splunk Lab</a>|
-| Log Analysis & Threat Detection Automation  | <a href="https://google.com">	Linux Log Analysis Lab</a>|
+| SIEM Log Analysis & Phishing Investigation         | TryHackMe Splunk Lab|
+| Log Analysis & Threat Detection Automation  | Linux Log Analysis Lab|
 | Incident Ticketing, Escalation & Documentation     | Daily Operations — ServiceNow|
 
 ## Tools
